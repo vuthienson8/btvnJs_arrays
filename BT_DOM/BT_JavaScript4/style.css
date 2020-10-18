@@ -1,0 +1,26 @@
+#ex13{
+    height: 100px;
+    width: 250px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+#display{
+    display: flex;
+    justify-content: center;
+    height: 30%;
+    padding-top: 20px;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+#button{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: yellow;
+}
+/*  */
+.text{
+    height: 10px;
+    width: 400px;
+}
